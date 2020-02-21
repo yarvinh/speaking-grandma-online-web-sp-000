@@ -15,13 +15,13 @@ def speak_to_grandma(you)
   if you == 'I LOVE YOU GRANDMA!'
     'I LOVE YOU TOO PUMPKIN!'
 elsif you == 'Hi Nana, how are you?'
-  puts 'HUH?! SPEAK UP, SONNY!'
+   'HUH?! SPEAK UP, SONNY!'
 elsif  you == 'Hi!'
-  puts 'HUH?! SPEAK UP, SONNY!'
+   'HUH?! SPEAK UP, SONNY!'
 elsif you == 'WHAT DID YOU EAT TODAY?'
-  puts "NO, NOT SINCE 1938!"
+   "NO, NOT SINCE 1938!"
 elsif you == 'WHAT?'
-  puts "NO, NOT SINCE 1938!"
+   "NO, NOT SINCE 1938!"
 
   end
 
