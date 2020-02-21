@@ -13,7 +13,16 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(you)
   if you == 'I LOVE YOU GRANDMA!'
-  puts  'I LOVE YOU TOO PUMPKIN!'
+    'I LOVE YOU TOO PUMPKIN!'
+elsif you == 'Hi Nana, how are you?'
+   'HUH?! SPEAK UP, SONNY!'
+elsif  you == 'Hi!'
+   'HUH?! SPEAK UP, SONNY!'
+elsif you == 'WHAT DID YOU EAT TODAY?'
+   "NO, NOT SINCE 1938!"
+elsif you == 'WHAT?'
+   "NO, NOT SINCE 1938!"
+
   end
 
 end
